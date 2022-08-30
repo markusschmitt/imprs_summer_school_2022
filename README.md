@@ -1,4 +1,5 @@
-# imprs_summer_school_2022
+# Simulating dynamics with neural quantum states
+
 Introduction to dynamics with neural quantum states for the IMPRS Summer School 2022.
 
 The performance profits from available GPUs. For this purpose you can run the notebook
